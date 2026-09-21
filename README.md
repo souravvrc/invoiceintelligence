@@ -41,13 +41,13 @@ Finance teams spend hours manually reviewing vendor invoices to detect:
 ### Screenshots
 
 **Homepage**
-![Application Home](images/app_home.png)
+![Application Home](app_home.png)
 
 **Freight Cost Prediction**
-![Freight Prediction](images/freight_prediction.png)
+![Freight Prediction](freight_prediction.png)
 
 **Invoice Risk Flagging**
-![Invoice Risk](images/invoice_risk.png)
+![Invoice Risk](invoice_risk.png)
 
 ---
 
