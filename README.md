@@ -38,10 +38,6 @@ Finance teams spend hours manually reviewing vendor invoices to detect:
 
 ---
 
-## 🚀 Live Demo
-
-**Try it here:** [https://mayuresh0711-vendor-invoice-intelligence-system-app-sszyjb.streamlit.app/](https://mayuresh0711-vendor-invoice-intelligence-system-app-sszyjb.streamlit.app/)
-
 ### Screenshots
 
 **Homepage**
